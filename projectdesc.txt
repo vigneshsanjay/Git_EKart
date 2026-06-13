@@ -1,0 +1,7 @@
+This project has the features 
+Login
+Sign up
+Change Password
+Ekart
+Payment
+Email Service
